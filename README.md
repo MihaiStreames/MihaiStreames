@@ -1,14 +1,9 @@
-### <div align="center">I'm Mihai, a software/backend developer focused in cybersecurity 🛡️</div>  
-
-<br/>  
-
-
-## My Skill Set  
+# My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
 
-### Frontend  
+## Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -23,7 +18,7 @@
 
 
 
-### Backend  
+## Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -42,7 +37,7 @@
 
 
 
-## Socials
+# Socials
 <div align="center">
   <a href="https://www.discord.com/invite/ZCkMcQq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -56,6 +51,6 @@
 
 
 
-## Github Stats  
+# Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStreames&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" align="center" /></div>
 <br />
