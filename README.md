@@ -1,19 +1,4 @@
 ### <div align="center">I'm Mihai, a software/backend developer focused in cybersecurity 🛡️</div>  
-  
-
-- 🔭 I’ve developed proprietary software for companies, working closely with their internal requirements to deliver custom solutions.  
-  
-
-- 🔧 Currently, I’m working on Linux drivers for fingerprint sensors and have hands-on experience with Nvidia API development, using GPU frame capture and encoding technologies.  
-  
-
-- 🛠️ I’ve built my own pen-testing playground from scratch and have experience securing servers for different environments.  
-  
-
-- 🎯 I’ve participated in numerous Capture The Flag (CTF) competitions and hackathons.  
-  
-
-- 🌐 My expertise spans mostly backend development, low-level programming (C, C++), Python scripting, and cybersecurity topics like offensive security and cryptography.  
 
 <br/>  
 
