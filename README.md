@@ -1,4 +1,4 @@
-### <div align="center">I'm Mihai, a software/backend developer focused in cybersecurity and system-level development 🛡️</div>  
+### <div align="center">I'm Mihai, a software/backend developer focused in cybersecurity 🛡️</div>  
   
 
 - 🔭 I’ve developed proprietary software for companies, working closely with their internal requirements to deliver custom solutions.  
