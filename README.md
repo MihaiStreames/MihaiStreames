@@ -15,8 +15,6 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 - 🎮 F13DNS Server Revival - Custom DNS server implementation for Friday the 13th, including comprehensive documentation
 - 🎥 Linux Screen Capture - Developing a Shadowplay alternative for Linux (with potential Windows port)
 
----
-
 # My Skill Set
 
 <table>
