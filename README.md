@@ -15,13 +15,13 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 - 🎮 F13DNS Server Revival - Custom DNS server implementation for Friday the 13th, including comprehensive documentation
 - 🎥 Linux Screen Capture - Developing a Shadowplay alternative for Linux (with potential Windows port)
 
-# My Skill Set
+## My Skillset
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-## Languages
+### Languages
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/374016/python.svg" alt="Python" height="50" /></a>  
@@ -40,7 +40,7 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 
 <td valign="top" width="33%">
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452092/react.svg" alt="React" height="50" /></a>  
@@ -54,7 +54,7 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 
 <td valign="top" width="33%">
 
-## Tools & Platforms
+### Tools & Platforms
 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Linux" height="50" /></a>  
@@ -73,7 +73,7 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 </tr>
 </table>
 
-# Socials
+## Socials
 
 <div align="center">
   <a href="https://www.discord.com/invite/ZCkMcQq" target="_blank">
@@ -86,7 +86,7 @@ becoming a well-rounded developer with strong backend expertise while expanding 
 
 <br/>  
 
-# Github Stats
+## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStreames&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" align="center" /></div>
 <br />
