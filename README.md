@@ -51,6 +51,6 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=postgre" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="Ableton"/>
 </div>
