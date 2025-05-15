@@ -43,7 +43,6 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask"/>
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium"/>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="CMake"/>
