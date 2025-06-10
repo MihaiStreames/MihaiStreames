@@ -40,7 +40,6 @@ I'm currently working on a few things:
 
 <div align="right">
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="Svelte"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS"/>
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
