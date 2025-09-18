@@ -6,8 +6,9 @@ I'm currently working on a few things:
 - 🎮 **F13DNS Server** - Trying to make my own DNS server for Friday the 13th, while trying to document it all so you can also make one yourself :D
 - 🤖 **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell :P
 - 🧩 **AlgorithmsForEveryone (AFE)** - Learning Algorithms and Data Structures (for Uni) and sharing my knowledge with the world
-- 🕹️ **Ludus** - My own game launcher, made for Linux, open-source and focused on simplifying setups and all that
-- 📱 **ADHD Cookbook** - Simple recipe/grocery mobile app, focused on minimalism. Initially made for myself so I am less lazy, but it might help you too
+- 🕹️ **Ludus (WIP)** - My own game launcher, made for Linux, open-source and focused on simplifying setups and all that
+- 🖥️ **ContaraNAS (WIP)** - A modular NAS management native app made to monitor my NAS without using a second screen, has a bunch of cool modules
+- 📱 **ADHD Cookbook (WIP)** - Simple recipe/grocery mobile app, focused on minimalism. Initially made for myself so I am less lazy, but it might help you too
 
 ## 🛠 My Skillset
 ### 🔧 Backend
