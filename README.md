@@ -1,10 +1,10 @@
 # Hi
 
-I'm a Computer Science student with a passion for cybersecurity and software development.
+I'm a Computer Science student, I like cybersecurity, software development and _recently_ figured out I also like _networking_.
 
 I'm currently working on a few things:
 - **F13DNS Server** - Trying to make my own DNS server for Friday the 13th, while trying to document it all so you can also make one yourself :D
-- **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell :P
+- **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell
 - **DAWPresence** - Discord RPC Presence for DAWs
 - **AlgorithmsForEveryone (AFE)** - Learning Algorithms and Data Structures (for Uni) and sharing my knowledge with the world
 - **Ludus (WIP)** - My own game launcher, made for Linux, open-source and focused on simplifying setups and all that
