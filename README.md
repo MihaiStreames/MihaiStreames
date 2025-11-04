@@ -1,5 +1,3 @@
-# Hi
-
 I'm a Computer Science student, I like cybersecurity, software development and _recently_ figured out I also like _networking_.
 
 I'm currently working on a few things:
@@ -24,11 +22,13 @@ I'm currently working on a few things:
 
 <div align="right">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="CMake"/>
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
 </div>
 
 ### 🖵 Frontend
@@ -42,27 +42,23 @@ I'm currently working on a few things:
 <div align="right">
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="Svelte"/>
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS"/>
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
 </div>
 
 ### ⚙️ Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
-  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="Ableton"/>
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX"/>
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"/>
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch"/>
 </div>
 
 <div align="right">
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="CMake"/>
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven"/>
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm"/>
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
 </div>
 
 ### 🧪 DevOps
