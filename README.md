@@ -5,7 +5,6 @@ I'm currently working on a few things:
 - **ContaraNAS (WIP)** - A modular NAS management native app made to monitor my NAS without using a second screen, has a bunch of cool modules
 - **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell
 - **DAWPresence** - Discord RPC Presence for DAWs
-- **Ludus (WIP)** - My own game launcher, made for Linux, open-source and focused on simplifying setups and all that
 - **AlgorithmsForEveryone (AFE)** - Learning Algorithms and Data Structures (for Uni) and sharing my knowledge with the world
 
 ## 🛠 My Skillset
