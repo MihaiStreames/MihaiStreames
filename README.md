@@ -68,7 +68,4 @@ I'm currently working on a few things:
 </div>
 
 ## ⭐ Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihaiStreames&theme=graywhite&show_icons=true&hide_border=true&count_private=true" height=150 alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaiStreames&theme=graywhite&show_icons=true&hide_border=true&layout=compact" height=150 alt="Language Stats" />
-</div>
+<img src="https://githubcard.com/MihaiStreames.svg?d=9hA9HyUJ" alt="Stats"/>
