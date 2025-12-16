@@ -6,18 +6,17 @@ I'm currently working on a few things:
 - **import-janitor (WIP)** - I am tired of handling imports in python so I'm making a tool that does it for me (very opinionated)
 - **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell
 - **DAWPresence** - Discord RPC Presence for DAWs
-- **AlgorithmsForEveryone (AFE)** - Learning Algorithms and Data Structures (for Uni) and sharing my knowledge with the world
 
 ## 🛠 My Skillset
 ### 🔧 Backend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua"/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust"/>
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua"/>
 </div>
 
 <div align="right">
