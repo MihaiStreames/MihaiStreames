@@ -66,6 +66,3 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"/>
 </div>
-
-## ⭐ Stats
-<img src="https://githubcard.com/MihaiStreames.svg?d=9hA9HyUJ" alt="Stats"/>
