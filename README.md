@@ -4,6 +4,7 @@ I'm currently working on a few things:
 - **Unifyr (WIP)** - More info soon™
 - **ContaraNAS** - A modular NAS management native app made to monitor my NAS without using a second screen, has a bunch of cool modules
 - **import-janitor (WIP)** - I am tired of handling imports in python so I'm making a tool that does it for me (very opinionated)
+- **ghlang** - GitHub / local language statistics, pretty cool CLI tool
 - **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell
 - **DAWPresence** - Discord RPC Presence for DAWs
 
