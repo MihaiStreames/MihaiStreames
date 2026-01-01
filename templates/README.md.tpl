@@ -1,15 +1,22 @@
 I'm a Computer Science student, I like cybersecurity, software development and _recently_ figured out I also like _networking_.
 
-I'm currently working on a few things:
-- **Unifyr (WIP)** - More info soon™
-- **ContaraNAS** - A modular NAS management native app made to monitor my NAS without using a second screen, has a bunch of cool modules
-- **ghlang** - GitHub / local language statistics, pretty cool CLI tool
-- **DAWPresence** - Discord RPC Presence for DAWs
-- **import-janitor (WIP)** - I am tired of handling imports in python so I'm making a tool that does it for me (very opinionated)
-- **Downwell.AI** - An old project I picked back up, learning RL + DDQN by making an AI for Downwell
+## What I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{.}}{{ end }} ({{humanize .OccurredAt}})
+{{- end}}
 
-## 🛠 My Skillset
-### 🔧 Backend
+## Repositories I created recently
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+
+## Latest releases I've contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+
+## My Skillset
+### Backend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
@@ -31,7 +38,7 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
 </div>
 
-### 🖵 Frontend
+### Frontend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
@@ -45,7 +52,7 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="Qt"/>
 </div>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch"/>
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows"/>
@@ -61,7 +68,7 @@ I'm currently working on a few things:
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm"/>
 </div>
 
-### 🧪 DevOps
+### DevOps
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
