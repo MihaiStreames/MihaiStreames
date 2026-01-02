@@ -2,11 +2,11 @@ I'm a Computer Science student, I like cybersecurity, software development and _
 
 ## What I'm currently working on
 
-- [MihaiStreames/DAWPresence](https://github.com/MihaiStreames/DAWPresence) - Simple Rust app showing what you&#39;re creating in your Digital Audio Workstation on your Discord profile (today)
-- [MihaiStreames/ghlang](https://github.com/MihaiStreames/ghlang) - Generate pretty charts showing language statistics from GitHub repos or local code using Python (today)
-- [big-lip-bob/fmod-jna](https://github.com/big-lip-bob/fmod-jna) - Java wrapper for the FMOD audio engine using JNA. Cross-platform and idiomatic. (3 days ago)
-- [MihaiStreames/ContaraNAS](https://github.com/MihaiStreames/ContaraNAS) - A native NAS managing application, made with Tauri and Python. (3 days ago)
-- [MihaiStreames/dotfiles](https://github.com/MihaiStreames/dotfiles) - My personal dotfiles :P (4 days ago)
+- [MihaiStreames/DAWPresence](https://github.com/MihaiStreames/DAWPresence) - Simple Rust app showing what you&#39;re creating in your Digital Audio Workstation on your Discord profile (1 day ago)
+- [MihaiStreames/ghlang](https://github.com/MihaiStreames/ghlang) - Generate pretty charts showing language statistics from GitHub repos or local code using Python (1 day ago)
+- [big-lip-bob/fmod-jna](https://github.com/big-lip-bob/fmod-jna) - Java wrapper for the FMOD audio engine using JNA. Cross-platform and idiomatic. (4 days ago)
+- [MihaiStreames/ContaraNAS](https://github.com/MihaiStreames/ContaraNAS) - A native NAS managing application, made with Tauri and Python. (4 days ago)
+- [MihaiStreames/dotfiles](https://github.com/MihaiStreames/dotfiles) - My personal dotfiles :P (5 days ago)
 
 ## Repositories I created recently
 
@@ -18,8 +18,8 @@ I'm a Computer Science student, I like cybersecurity, software development and _
 
 ## Latest releases I've contributed to
 
-- [MihaiStreames/DAWPresence](https://github.com/MihaiStreames/DAWPresence) ([v2.0.1](https://github.com/MihaiStreames/DAWPresence/releases/tag/v2.0.1), today) - Simple Rust app showing what you&#39;re creating in your Digital Audio Workstation on your Discord profile
-- [MihaiStreames/ghlang](https://github.com/MihaiStreames/ghlang) ([v2.3.2](https://github.com/MihaiStreames/ghlang/releases/tag/v2.3.2), 2 days ago) - Generate pretty charts showing language statistics from GitHub repos or local code using Python
+- [MihaiStreames/DAWPresence](https://github.com/MihaiStreames/DAWPresence) ([v2.0.1](https://github.com/MihaiStreames/DAWPresence/releases/tag/v2.0.1), 1 day ago) - Simple Rust app showing what you&#39;re creating in your Digital Audio Workstation on your Discord profile
+- [MihaiStreames/ghlang](https://github.com/MihaiStreames/ghlang) ([v2.3.2](https://github.com/MihaiStreames/ghlang/releases/tag/v2.3.2), 3 days ago) - Generate pretty charts showing language statistics from GitHub repos or local code using Python
 - [MihaiStreames/AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone) ([v0.0.2](https://github.com/MihaiStreames/AlgorithmsForEveryone/releases/tag/v0.0.2), 6 months ago) - A comprehensive collection of common algorithms and data structures implemented in Java (and soon, Python).
 - [Chobischtroumpf/BETransitPathfinder](https://github.com/Chobischtroumpf/BETransitPathfinder) ([v1.0.0](https://github.com/Chobischtroumpf/BETransitPathfinder/releases/tag/v1.0.0), 7 months ago) - Our year 2 Algorithmics project which consists of pathfinding across the entire Belgian transit network.
 
