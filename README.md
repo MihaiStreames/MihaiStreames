@@ -2,6 +2,10 @@ Hey there :3
 
 I'm a Computer Science student who likes cybersecurity, software development, and *recently* figured out I also like networking. If something piques my interest, I'll find the time to learn about it.
 
+*Support me on ko-fi if you like the stuff I do and have spare pennies :)*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mihaistreames)
+
 ## Languages I work with
 
 <div align="center">
