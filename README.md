@@ -19,7 +19,7 @@ I'm a Computer Science student who likes cybersecurity, software development, an
 - **C/C++** - i can never find interesting projects *(windows apps coming soon via [@Thin32](https://github.com/Thin32))*
 - **Lua** - specifically Luau, from my roblox  dev days
 - **Java** - decent at it thanks to university, Spring Boot makes it bearable
-- **(Java)TypeScript + Svelte** - the only frontend stack that makes sense *(I use Tauri, so I'm stuck with this)*
+- **(Java)TypeScript + Svelte** - the only frontend stack that makes sense
 
 *I'm not listing C# (used it once, awful) or every other language I've touched.*
 
