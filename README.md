@@ -42,8 +42,8 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
 - **University Projects:**
   - [Tetris.Royale](https://github.com/MihaiStreames/Tetris.Royale): Full C++ Tetris Royale game
   - [BETransitPathfinder](https://github.com/Chobischtroumpf/BETransitPathfinder): Pathfinding across Belgium's entire transit network
-  - [AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone): Collection of algorithms and data structures in Java
 
 - **Other stuff:**
+  - [AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone): Collection of algorithms and data structures in Java
   - [dotfiles](https://github.com/MihaiStreames/dotfiles): My personal config files
   - [MihaiStreames.github.io](https://github.com/MihaiStreames/MihaiStreames.github.io): Personal blog (when I actually write)
