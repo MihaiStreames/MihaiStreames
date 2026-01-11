@@ -39,10 +39,6 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
   - [Downwell.AI](https://github.com/MihaiStreames/Downwell.AI): AI for Downwell in Python (WIP)
   - [SCBackendRequestManagerDocs](https://github.com/MihaiStreames/SCBackendRequestManagerDocs): Friday the 13th backend documentation (anti-gatekeeping effort)
 
-- **University Projects:**
-  - [Tetris.Royale](https://github.com/MihaiStreames/Tetris.Royale): Full C++ Tetris Royale game
-  - [BETransitPathfinder](https://github.com/Chobischtroumpf/BETransitPathfinder): Pathfinding across Belgium's entire transit network
-
 - **Other stuff:**
   - [AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone): Collection of algorithms and data structures in Java
   - [dotfiles](https://github.com/MihaiStreames/dotfiles): My personal config files
