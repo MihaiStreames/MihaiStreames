@@ -33,6 +33,7 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
 
 - **Tools & Libraries:**
   - [ghlang](https://github.com/MihaiStreames/ghlang): Generate pretty language statistics charts from GitHub repos
+  - [tokount](https://github.com/MihaiStreames/tokount): Fast line counter for codebases
   - [fmod-jna](https://github.com/big-lip-bob/fmod-jna): Java wrapper for FMOD audio engine
 
 - **Fun Projects:**
