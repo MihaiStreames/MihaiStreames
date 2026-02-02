@@ -43,5 +43,5 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
 
 - **Other stuff:**
   - [AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone): Collection of algorithms and data structures in Java
-  - [dotfiles](https://github.com/MihaiStreames/dotfiles): My personal config files
+  - [mochaccino](https://github.com/MihaiStreames/mochaccino): My personal config files
   - [MihaiStreames.github.io](https://github.com/MihaiStreames/MihaiStreames.github.io): Personal blog (when I actually write)
