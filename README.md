@@ -32,6 +32,7 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
   - [DAWPresence](https://github.com/MihaiStreames/DAWPresence): Discord Rich Presence for your DAW (first Rust project)
 
 - **Tools & Libraries:**
+  - [import-janitor](https://github.com/MihaiStreames/import-janitor): The Python tool that fixes imports (WIP!!!!!!!!!!!)
   - [ghlang](https://github.com/MihaiStreames/ghlang): Generate pretty language statistics charts from GitHub repos
   - [tokount](https://github.com/MihaiStreames/tokount): Fast line counter for codebases
   - [fmod-jna](https://github.com/big-lip-bob/fmod-jna): Java wrapper for FMOD audio engine
