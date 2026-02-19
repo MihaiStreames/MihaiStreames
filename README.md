@@ -39,7 +39,6 @@ GitHub doesn't have any nice way to organize repos, so here's my attempt:
 
 - **Fun Projects:**
   - [Downwell.AI](https://github.com/MihaiStreames/Downwell.AI): AI for Downwell in Python (WIP)
-  - [SCBackendRequestManagerDocs](https://github.com/MihaiStreames/SCBackendRequestManagerDocs): Friday the 13th backend documentation (anti-gatekeeping effort)
 
 - **Other stuff:**
   - [AlgorithmsForEveryone](https://github.com/MihaiStreames/AlgorithmsForEveryone): Collection of algorithms and data structures in Java
