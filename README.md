@@ -10,6 +10,5 @@ My free time usually goes towards diving into networking internals (DNS, HTTP, I
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mihaistreames)
 
-Portfolio & blog at https://mihaistreames.github.io
-
-Music at https://on.soundcloud.com/SAoBqbLszVdxkL8N3E
+- Portfolio & blog at https://mihaistreames.github.io
+- Music at https://on.soundcloud.com/SAoBqbLszVdxkL8N3E
